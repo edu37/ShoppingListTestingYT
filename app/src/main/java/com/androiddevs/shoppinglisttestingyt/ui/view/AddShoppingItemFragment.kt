@@ -8,6 +8,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import com.androiddevs.shoppinglisttestingyt.R
 import com.androiddevs.shoppinglisttestingyt.databinding.FragmentAddShoppingItemBinding
+import com.androiddevs.shoppinglisttestingyt.ui.viewmodel.ShoppingViewModel
 
 class AddShoppingItemFragment : Fragment(R.layout.fragment_add_shopping_item) {
 
